@@ -29,6 +29,6 @@ module SentencesExtractor
   end
 end
 
-class TextProcessor
+module TextProcessor
   extend SentencesExtractor
 end
